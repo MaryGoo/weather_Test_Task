@@ -4,6 +4,7 @@ build/
 allure-results/
 /.idea
 /target
+/gradle
 
 # Ignore Gradle GUI config
 gradle-app.setting
